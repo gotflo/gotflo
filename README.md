@@ -2,10 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Florent Gotliebe <span></br>(aka gotflo)<span/></h1>
 <h3 align="center">Web | Mobile developer & UI/UX Designer</h3>
+<h3 align="center" style="color:red;">Flutter Engineer</h3>
 
 - 🔭 I’m currently working on **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://gotflo.github.io/myPortfolio/](https://gotflo.github.io/myPortfolio/)
+- 👨‍💻 All of my projects are available at [https://gotflo.netlify.app/](https://gotflo.netlify.app/)
 
 - 💬 Ask me about **Angular, Spring Boot, laravel**
 
